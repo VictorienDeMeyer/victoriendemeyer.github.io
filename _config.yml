@@ -1,34 +1,24 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
+title: "Victorien De Meyer, PhD"
+author: "Victorien De Meyer"
 lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
 
-# Layout
+permalink: /:title/
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+show_frame: true
+show_sidebar: false
+show_minimal: false
 
-#show_frame: "/assets/images/background.svg"
+navigation:
+  - {file: "index.md", title: "About"}
+  - {file: "interests.md", title: "Interests"}
+  - {file: "publications.md", title: "Publications"}
+  - {file: "cv.md", title: "CV"}
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+external:
+  - {title: Email, icon: envelope, url: "mailto:TON_EMAIL"}
+  - {title: LinkedIn, icon: linkedin, url: "LIEN_LINKEDIN"}
+  - {title: GitHub, icon: github, url: "https://github.com/VictorienDeMeyer"}
+  - {title: ORCID, icon: orcid, url: "LIEN_ORCID"}
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
-
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
-
-plugins:
- - jekyll-feed
+exclude:
+  - README.md
