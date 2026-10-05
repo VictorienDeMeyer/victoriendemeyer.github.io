@@ -5,18 +5,12 @@ title: "Atmospheric scientist · Weather & climate extremes"
 
 <p align="center"><img src="/photo.jpg" alt="Victorien De Meyer" width="220"></p>
 
-My strength is a broad and complete view of extreme weather: tropical and extratropical storms, extreme rain and wind, the conditions that lead to them, and how they change with the climate.
+Weather has always fascinated me. I remember being a 6 years old kid wondering how can water could fall from the sky, why wind was even a thing or where was thunder coming from, and I was astonished to seemingly be the only person curious and speechless about it around me.
 
-I'm looking for a role where this expertise feeds into risk models, ideally on the hazard side of catastrophe models.
+I have later been made aware of severe atmospheric event from all scales, and the climate change the world is experiencing, triggering an increased impact from those severe weathers onto society. For as long as I can remember, I wanted to study it, and today I'm proud to say I have become an expert and made it my job.
 
-**[Download my CV (PDF)](/cv.pdf)** · Open to opportunities across the EU, North America and Asia
+During my PhD, I studied how convective systems in the tropics and the extreme rain they bring are affected by changes in surface temperature. During my postdoc, I've been interested in the sensitivity of midlatitudes storms to climate change, particulary through their strong winds and heavy rain they carry.
 
-## What I bring
+After my PhD, I wanted my work to be useful beyond research papers, so I chose a postdoc built around an industrial partnership to prepare a transition to the private sectors. Now I'd like to go one step further and work in sectors such as insurance, consulting, energy or any more operational settings. For example, working on the hazard side of catastrophe models, the part that describes the storms themselves, is a challenge that I'm particulary interested in. I'm an European Citizen (from France) and own the canadian permanent residency. I'm happy to move anywhere in the EU, North America or Asia.
 
-- **Weather extremes, from the tropics to mid-latitudes**: tropical convection and extreme rainfall, extratropical cyclones, extreme winds from storm scale to large scale
-- **A wide range of data**: satellite and in-situ observations, ERA5 reanalysis, convection-permitting simulations, regional climate models (CRCM6-GEM5), CMIP6 global models
-- **Extremes statistics**: extreme value theory, return periods, frequency and intensity of extremes, storm tracking
-- **Python, HPC and machine learning**: xarray, Dask, pandas, Cartopy on HPC clusters; machine learning training at ECMWF and Mila
-- **Applied research with industry**: 3 years in a research partnership with Hydro-Québec
-
-*This website is built with Jekyll and hosted on GitHub Pages ([source code](https://github.com/VictorienDeMeyer/victoriendemeyer.github.io)).*
+<p align="center"><img src="/photo.jpg" alt="Victorien De Meyer" width="220"></p>
