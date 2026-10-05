@@ -3,7 +3,7 @@ layout: page
 title: "Atmospheric scientist · Weather & climate extremes"
 ---
 
-<p align="center"><img src="/DSC05329.jpg" alt="Victorien De Meyer" width="220"></p>
+<p align="center"><img src="/DSC05329.JPG" alt="Victorien De Meyer" width="220"></p>
 
 Weather has always fascinated me. I remember being a 6 years old kid wondering how can water could fall from the sky, why wind was even a thing or where was thunder coming from, and I was astonished to seemingly be the only person curious and speechless about it around me.
 
@@ -13,4 +13,4 @@ During my PhD, I studied how convective systems in the tropics and the extreme r
 
 After my PhD, I wanted my work to be useful beyond research papers, so I chose a postdoc built around an industrial partnership to prepare a transition to the private sectors. Now I'd like to go one step further and work in sectors such as insurance, consulting, energy or any more operational settings. For example, working on the hazard side of catastrophe models, the part that describes the storms themselves, is a challenge that I'm particulary interested in. I'm an European Citizen (from France) and own the canadian permanent residency. I'm happy to move anywhere in the EU, North America or Asia.
 
-<p align="center"><img src="/DSC05329.jpg" alt="Victorien De Meyer" width="220"></p>
+<p align="center"><img src="/DSC05329.JPG" alt="Victorien De Meyer" width="220"></p>
