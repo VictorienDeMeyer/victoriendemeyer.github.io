@@ -9,7 +9,7 @@ show_sidebar: false
 show_minimal: false
 
 navigation:
-  - {file: "index.md", title: "About"}
+  - {file: "index.md", title: "About me"}
   - {file: "interests.md", title: "Interests"}
   - {file: "publications.md", title: "Publications"}
   - {file: "cv.md", title: "CV"}
