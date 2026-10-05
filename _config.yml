@@ -15,10 +15,10 @@ navigation:
   - {file: "cv.md", title: "CV"}
 
 external:
-  - {title: Email, icon: envelope, url: "mailto:TON_EMAIL"}
-  - {title: LinkedIn, icon: linkedin, url: "LIEN_LINKEDIN"}
+  - {title: Email, icon: envelope, url: "mailto:victorien.demeyer@gmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/victorien-de-meyer"}
   - {title: GitHub, icon: github, url: "https://github.com/VictorienDeMeyer"}
-  - {title: ORCID, icon: orcid, url: "LIEN_ORCID"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0001-6566-2716"}
 
 exclude:
   - README.md
