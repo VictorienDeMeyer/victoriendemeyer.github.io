@@ -12,5 +12,3 @@ I have later been made aware of severe atmospheric event from all scales, and th
 During my PhD, I studied how convective systems in the tropics and the extreme rain they bring are affected by changes in surface temperature. During my postdoc, I've been interested in the sensitivity of midlatitudes storms to climate change, particulary through their strong winds and heavy rain they carry.
 
 After my PhD, I wanted my work to be useful beyond research papers, so I chose a postdoc built around an industrial partnership to prepare a transition to the private sectors. Now I'd like to go one step further and work in sectors such as insurance, consulting, energy or any more operational settings. For example, working on the hazard side of catastrophe models, the part that describes the storms themselves, is a challenge that I'm particulary interested in. I'm an European Citizen (from France) and own the canadian permanent residency. I'm happy to move anywhere in the EU, North America or Asia.
-
-<p align="center"><img src="/photo.jpg" alt="Victorien De Meyer" width="220"></p>
