@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Atmospheric scientist · Weather & climate extremes"
+title: "About Me"
 ---
 
 <p align="center"><img src="/photo.jpg" alt="Victorien De Meyer" width="220"></p>
