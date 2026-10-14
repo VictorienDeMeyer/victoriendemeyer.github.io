@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-<p align="center"><img src="/photo.jpg" alt="Victorien De Meyer" width="660"></p>
+<p style="text-align: center;"><img src="/photo.jpg" alt="Victorien De Meyer" width="660"></p>
 
 Weather has always fascinated me. As a child, I was obsessed with how water could fall from the sky, why wind even existed, or where thunder could come from.
 
